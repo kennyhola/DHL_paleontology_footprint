@@ -1,1 +1,1 @@
-*.nxz filter=lfs diff=lfs merge=lfs -text
+Footprint_path.nxz filter=lfs diff=lfs merge=lfs -text
